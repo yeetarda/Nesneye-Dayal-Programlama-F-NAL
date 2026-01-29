@@ -1,4 +1,4 @@
-# Nesneye-Dayal-Programlama-F-NAL
+# Akıllı Kütüphane Sistemi
 
 Kullanıcının öğrenci ve kitap ekleyebildiği ve kitapları öğrencilere ödünç verip geri alabileceği bir uygulama.
 
